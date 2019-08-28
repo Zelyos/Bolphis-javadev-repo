@@ -1,0 +1,5 @@
+com\wetic\jersey\repository\timezone\DateTimeWrapperRepository.class
+com\wetic\jersey\config\timezone\HibernateTimeZoneIT.class
+com\wetic\jersey\repository\timezone\DateTimeWrapper_.class
+com\wetic\jersey\repository\timezone\DateTimeWrapper.class
+com\wetic\jersey\config\WebConfigurerTestController.class
